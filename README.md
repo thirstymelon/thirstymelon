@@ -172,10 +172,6 @@ fn principles() {
 
 ---
 
-<!-- Minimal footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=green&customColorList=6,4,2" width="80%">
-</p>
 
 <p align="center">
   <sub>🌱 Building systems close to the metal, one instruction at a time</sub>
