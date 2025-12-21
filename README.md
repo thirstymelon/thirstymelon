@@ -5,8 +5,24 @@
 I’m a B.Tech student focused on low-level systems and performance-oriented software.  
 I enjoy working close to the hardware—building embedded projects, exploring operating systems, and understanding how software interacts with silicon.
 
-My current interests include **Rust**, **ESP32**, and **ARM64 internals**, with a growing focus on systems design, networking, and OS fundamentals.  
+My current interests include **Rust**, **Embedded Systems**, and **ARM64 internals**, with a growing focus on systems design, networking, and OS fundamentals.  
 I value clarity, efficiency, and learning by building real systems from the ground up.
+
+---
+
+## 🧠 What I Care About
+- Low-level systems and OS fundamentals  
+- Writing efficient, minimal, and readable code  
+- Understanding hardware–software interaction  
+- Building things that work close to the metal  
+
+---
+
+## 🔧 Currently Exploring
+- Rust for systems and embedded development  
+- ESP32 networking and firmware internals  
+- ARM64 architecture and low-level programming  
+- Operating system concepts
 
 ---
 
@@ -27,12 +43,13 @@ I value clarity, efficiency, and learning by building real systems from the grou
 
 ## 📊 GitHub Stats
 
-<!-- subtle divider -->
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thirstymelon&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- subtle divider -->
+
+---
+
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bae6fd,100:fbcfe8&height=2&section=header" width="100%" />
 </p>
