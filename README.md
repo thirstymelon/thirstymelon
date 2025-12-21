@@ -27,39 +27,40 @@ I value clarity, efficiency, and learning by building real systems from the grou
 
 ## 📊 GitHub Stats
 
-<!-- divider -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c7f9cc,100:a0e9ff&height=2&section=header" width="100%" />
-</p>
-
-<!-- main stats -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=thirstymelon
     &show_icons=true
     &hide_title=true
     &hide_border=true
-    &icon_color=7bdcb5
-    &text_color=5f6c7b
-    &bg_color=00000000"
+    &icon_color=4ade80
+    &text_color=374151
+    &bg_color=f0fdf4"
     height="155"
   />
 </p>
 
-<!-- top languages -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon
     &layout=compact
     &hide_border=true
-    &title_color=7bdcb5
-    &text_color=5f6c7b
-    &bg_color=00000000"
+    &title_color=60a5fa
+    &text_color=374151
+    &bg_color=eff6ff"
     height="125"
   />
 </p>
 
-<!-- divider -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a0e9ff,100:ffcad4&height=2&section=header" width="100%" />
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=thirstymelon
+    &hide_border=true
+    &ring=fda4af
+    &fire=fda4af
+    &currStreakLabel=374151
+    &sideLabels=374151
+    &background=fdf2f8"
+    height="140"
+  />
 </p>
