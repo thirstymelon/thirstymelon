@@ -48,5 +48,3 @@ Every project I work on is a step toward understanding computers at their core.
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:1f1f1f&height=2&section=header" width="100%" />
 </p>
-
----
