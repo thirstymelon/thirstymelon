@@ -27,10 +27,18 @@ Every project I work on is a step toward understanding computers at their core.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=thirstymelon&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thirstymelon&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thirstymelon&hide_border=true&theme=transparent" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&layout=compact&hide_border=true&theme=transparent" height="120" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thirstymelon&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=thirstymelon&icon=0&color=0" />
+</p>
