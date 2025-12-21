@@ -28,35 +28,10 @@ I value clarity, efficiency, and learning by building real systems from the grou
 ## 📊 GitHub Stats
 
 <!-- subtle divider -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bbf7d0,100:bae6fd&height=2&section=header" width="100%" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thirstymelon
-    &show_icons=true
-    &hide_title=true
-    &hide_border=true
-    &icon_color=22c55e
-    &text_color=374151
-    &bg_color=ecfdf5"
-    height="150"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon
-    &layout=compact
-    &hide_border=true
-    &title_color=38bdf8
-    &text_color=374151
-    &bg_color=f0f9ff"
-    height="120"
-  />
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thirstymelon&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- subtle divider -->
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bae6fd,100:fbcfe8&height=2&section=header" width="100%" />
