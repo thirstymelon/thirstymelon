@@ -5,7 +5,7 @@
 
 <!-- Smooth animated typing (skills & interests only) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1500&color=93C5FD&center=true&vCenter=true&random=false&width=650&lines=Systems+Programming+%26+Embedded+Systems;Rust+%E2%80%A2+Assembly+%E2%80%A2+ESP32;Low-level+software+engineering;Where+hardware+meets+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1500&color=93C5FD&center=true&vCenter=true&random=false&width=650&lines=Systems+Programming+%26+Embedded+Systems;Rust+%E2%80%A2+Assembly+%E2%80%A2+Embedded;Low-level+software+engineering;Where+hardware+meets+software" alt="Typing SVG" />
 </p>
 
 <!-- Gentle gradient line -->
@@ -19,7 +19,7 @@
 
 ```json
 {
-  "name": "ThirstyMelon",
+  "name": "Lokesh Panditi",
   "role": "Systems Programmer & Embedded Engineer",
   "location": "Close to the Metal",
   "interests": [
@@ -174,7 +174,7 @@ fn principles() {
 
 <!-- Minimal footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=6,4,2" width="80%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=green&customColorList=6,4,2" width="80%">
 </p>
 
 <p align="center">
