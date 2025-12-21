@@ -1,3 +1,8 @@
+<!-- Serene header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e293b,50:334155,100:64748b&text=Systems%20Programming&fontColor=e5e7eb&fontSize=32&fontAlignY=35&desc=Rust%20•%20Embedded%20•%20ARM64&descAlignY=55" />
+</p>
+
 # 💫 About Me
 
 **Systems Programming • Rust • Embedded • ARM64**
@@ -11,24 +16,35 @@ I value clarity, efficiency, and learning by building real systems from the grou
 ---
 
 ## 🧠 What I Care About
-- Low-level systems and OS fundamentals  
-- Writing efficient, minimal, and readable code  
-- Understanding hardware–software interaction  
-- Building things that work close to the metal  
+- Low-level systems and operating system fundamentals  
+- Writing efficient, minimal, and predictable code  
+- Hardware–software interaction  
+- Building systems that work close to the metal  
 
 ---
 
 ## 🔧 Currently Exploring
 - Rust for systems and embedded development  
-- ESP32 networking and firmware internals  
+- ESP32 firmware, networking, and internals  
 - ARM64 architecture and low-level programming  
-- Operating system concepts
+- OS concepts: memory, scheduling, interrupts, I/O  
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.lokesh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thirstymelon.01@gmail.com)
+## 🧩 What You’ll Find Here
+- Experiments with **systems programming concepts**
+- Embedded and microcontroller-based projects  
+- Low-level Rust code and learning notes  
+- Explorations into OS internals and architecture  
+
+---
+
+## 🧭 Learning Philosophy
+> *Understand the system.  
+> Build it yourself.  
+> Keep it simple and correct.*
+
+I believe deep understanding comes from writing things from scratch, breaking them, and rebuilding them better.
 
 ---
 
@@ -41,15 +57,10 @@ I value clarity, efficiency, and learning by building real systems from the grou
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:94a3b8,100:cbd5f5" width="100%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thirstymelon&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:bae6fd,100:fbcfe8&height=2&section=header" width="100%" />
+<p align="center">
+  <em>Learning deeply. Building deliberately. Understanding systems.</em>
 </p>
