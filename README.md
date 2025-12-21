@@ -1,104 +1,77 @@
-<!-- Epic cyberpunk header with wave animation -->
+<!-- Clean minimal header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,12,20,6,2&text=ThirstyMelon%20⚡&fontColor=9DFFDB&fontSize=55&fontAlignY=35&desc=Low-Level%20Engineer%20%7C%20Systems%20Programming&descSize=22&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=ThirstyMelon&fontColor=86efac&fontSize=70&fontAlignY=50&desc=Systems%20Programmer%20%7C%20Embedded%20Engineer&descSize=20&descAlignY=70" />
 </p>
 
-<!-- Animated typing effect -->
+<!-- Smooth animated typing (skills & interests only) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7DFFAF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+the+metal+layer+%F0%9F%94%A7;Building+systems+from+scratch+%F0%9F%92%BB;Rust+%E2%80%A2+Assembly+%E2%80%A2+Embedded+%E2%9A%99%EF%B8%8F;Hardware+meets+software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1500&color=93C5FD&center=true&vCenter=true&random=false&width=650&lines=Systems+Programming+%26+Embedded+Systems;Rust+%E2%80%A2+Assembly+%E2%80%A2+ESP32;Low-level+software+engineering;Where+hardware+meets+software" alt="Typing SVG" />
 </p>
 
-<!-- Gradient divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,6" width="100%" />
+<!-- Gentle gradient line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=2,4,6" width="80%">
+</p>
 
-## 🔥 About Me
+<br>
+
+## 💫 About Me
 
 ```json
 {
   "name": "ThirstyMelon",
-  "role": "Systems Programmer",
-  "location": "Close to the Metal 🔩",
-  "focus": [
+  "role": "Systems Programmer & Embedded Engineer",
+  "location": "Close to the Metal",
+  "interests": [
     "Low-level programming",
     "Embedded systems",
-    "Hardware-software interface"
-  ],
-  "languages": ["Rust", "Assembly", "C"],
-  "interests": [
-    "ARM64 architecture",
     "Operating systems",
-    "Microcontrollers",
-    "Performance optimization"
+    "Networking fundamentals",
+    "Hardware–software interfaces"
   ],
-  "philosophy": "Understand the system. Build it yourself. Keep it simple.",
-  "currentStatus": "Learning by building from the ground up"
+  "languages": ["Rust", "Assembly"],
+  "architecture": ["ARM64", "ESP32"],
+  "philosophy": "Understand the system. Build it yourself. Keep it simple."
 }
 ```
 
 <br>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+### 🎯 What Drives Me
 
-### 💡 What Drives Me
+- ⚙️ Writing software that runs close to the hardware
+- 🧠 Understanding systems from first principles
+- ⚡ Efficient, minimal, and predictable code
+- 📡 Low-level networking and communication
+- 🧩 Exploring OS and firmware internals
 
-⚙️ **Low-Level Enthusiast** diving deep into systems internals  
-🔧 Building embedded projects and firmware  
-🧠 Understanding how software talks to silicon  
-🚀 Writing efficient, minimal, and predictable code  
-🔬 Exploring OS fundamentals and architecture  
-⚡ Making hardware do exactly what I want  
-
-<br clear="right"/>
+<br>
 
 ---
 
-## 🎯 What I'm Up To
+## 🛠️ What I'm Up To
 
 ```json
 {
-  "currentProjects": [
-    {
-      "name": "ESP32 Firmware Experiments",
-      "status": "Active",
-      "tech": ["Rust", "Embedded"]
-    },
-    {
-      "name": "ARM64 Assembly Deep Dive",
-      "status": "Learning",
-      "tech": ["Assembly", "ARM64"]
-    },
-    {
-      "name": "OS Concepts Implementation",
-      "status": "Exploring",
-      "tech": ["Rust", "Systems"]
-    }
-  ],
-  "learning": [
-    "Rust for embedded and systems development",
-    "ARM64 architecture and instruction set",
-    "ESP32 internals and networking",
-    "Memory management and scheduling",
-    "Interrupt handling and I/O operations"
-  ],
-  "exploring": [
-    "RTOS concepts",
-    "Bootloader development",
-    "Device drivers",
-    "Hardware debugging"
-  ]
+  "currentProject": {
+    "name": "Custom Mesh Network Implementation",
+    "description": "Building a mesh network for ESP32 from scratch using Rust",
+    "tech": ["Rust", "ESP32", "Embedded", "Networking"],
+    "status": "Active Development"
+  }
 }
 ```
 
+<br>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🔨 Tech Stack & Tools
 
 ### Core Languages
 <p>
   <img src="https://img.shields.io/badge/Rust-8BFFC8?style=for-the-badge&logo=rust&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/Assembly-7DFFAF?style=for-the-badge&logo=assemblyscript&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/C-6EDFC7?style=for-the-badge&logo=c&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/C++-5DCFBF?style=for-the-badge&logo=cplusplus&logoColor=0A0E27" />
 </p>
 
 ### Embedded & Hardware
@@ -106,7 +79,6 @@
   <img src="https://img.shields.io/badge/ESP32-9DFFDB?style=for-the-badge&logo=espressif&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/Arduino-8BFFC8?style=for-the-badge&logo=arduino&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/ARM-7DFFAF?style=for-the-badge&logo=arm&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-6EDFC7?style=for-the-badge&logo=raspberrypi&logoColor=0A0E27" />
 </p>
 
 ### Tools & Platforms
@@ -115,58 +87,41 @@
   <img src="https://img.shields.io/badge/Git-9DFFDB?style=for-the-badge&logo=git&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/GitHub-8BFFC8?style=for-the-badge&logo=github&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/VS_Code-7DFFAF?style=for-the-badge&logo=visualstudiocode&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/GDB-6EDFC7?style=for-the-badge&logo=gnu&logoColor=0A0E27" />
 </p>
 
 ### Architecture & Systems
 <p>
   <img src="https://img.shields.io/badge/ARM64-5DCFBF?style=for-the-badge&logo=arm&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/RISC--V-9DFFDB?style=for-the-badge&logo=riscv&logoColor=0A0E27" />
-  <img src="https://img.shields.io/badge/Embedded_Linux-8BFFC8?style=for-the-badge&logo=linux&logoColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Linux-8BFFC8?style=for-the-badge&logo=linux&logoColor=0A0E27" />
   <img src="https://img.shields.io/badge/Bare_Metal-7DFFAF?style=for-the-badge&logoColor=0A0E27" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirstymelon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7DFFAF&icon_color=9DFFDB&text_color=8BFFC8&ring_color=7DFFAF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thirstymelon&theme=radical&hide_border=true&background=0D1117&ring=7DFFAF&fire=9DFFDB&currStreakLabel=8BFFC8&sideLabels=6EDFC7&currStreakNum=7DFFAF&sideNums=9DFFDB&dates=5DCFBF" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7DFFAF&text_color=8BFFC8&langs_count=8" width="45%" />
-</p>
+<br>
 
 ---
 
-## 🧠 Learning Philosophy
-
-<div align="center">
+## 💭 Philosophy
 
 ```rust
-fn main() {
-    let philosophy = vec![
+fn principles() {
+    let values = [
         "Understand the system",
-        "Build it from scratch",
-        "Break it and learn why",
+        "Build from first principles",
+        "Break things to learn",
         "Keep it simple and correct",
-        "Optimize when necessary"
+        "Optimize only when needed"
     ];
     
-    for principle in philosophy {
-        println!("✓ {}", principle);
+    for v in values {
+        println!("✓ {}", v);
     }
-    
-    println!("\n🔥 Deep understanding comes from building, not just reading.");
 }
 ```
 
-</div>
+> **"The best way to understand a system is to build it yourself."**
 
-> **"The best way to understand a system is to build it yourself."**  
-> Writing things from scratch, breaking them, and rebuilding them better.
+<br>
 
 ---
 
@@ -175,16 +130,6 @@ fn main() {
 <table>
   <tr>
     <td width="50%">
-      <h3>🔧 Systems Programming</h3>
-      <ul>
-        <li>Memory management</li>
-        <li>Process scheduling</li>
-        <li>Interrupt handling</li>
-        <li>System calls</li>
-        <li>Performance optimization</li>
-      </ul>
-    </td>
-    <td width="50%">
       <h3>⚡ Embedded Systems</h3>
       <ul>
         <li>Microcontroller programming</li>
@@ -192,18 +137,6 @@ fn main() {
         <li>Hardware protocols (I2C, SPI, UART)</li>
         <li>Power optimization</li>
         <li>Sensor integration</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏗️ Architecture</h3>
-      <ul>
-        <li>ARM64 instruction set</li>
-        <li>CPU microarchitecture</li>
-        <li>Memory hierarchies</li>
-        <li>Pipeline optimization</li>
-        <li>Assembly programming</li>
       </ul>
     </td>
     <td width="50%">
@@ -219,27 +152,7 @@ fn main() {
   </tr>
 </table>
 
----
-
-## 🚀 What You'll Find Here
-
-```assembly
-section .projects
-    ; Experiments with systems programming concepts
-    db "Low-level Rust implementations"
-    db "Embedded and microcontroller projects"
-    db "ARM64 assembly explorations"
-    db "OS internals deep dives"
-    db "Hardware-software interface studies"
-    db "Performance optimization experiments"
-
-section .approach
-    ; How I work
-    mov rax, "Learn by doing"
-    push "Build from first principles"
-    call understand_deeply
-    ret
-```
+<br>
 
 ---
 
@@ -249,24 +162,23 @@ section .approach
   <a href="https://github.com/thirstymelon">
     <img src="https://img.shields.io/badge/GitHub-9DFFDB?style=for-the-badge&logo=github&logoColor=0A0E27" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:thirstymelon.01@gmail.com">
     <img src="https://img.shields.io/badge/Email-8BFFC8?style=for-the-badge&logo=gmail&logoColor=0A0E27" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/lokesh-panditi-123801339">
     <img src="https://img.shields.io/badge/LinkedIn-7DFFAF?style=for-the-badge&logo=linkedin&logoColor=0A0E27" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-6EDFC7?style=for-the-badge&logo=x&logoColor=0A0E27" />
   </a>
 </p>
 
 ---
 
-<!-- Animated wave footer -->
+<!-- Minimal footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,20,12,24&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=6,4,2" width="80%">
 </p>
 
 <p align="center">
-  <em>⚡ Building systems that work close to the metal | One instruction at a time 🔧</em>
+  <sub>🌱 Building systems close to the metal, one instruction at a time</sub>
 </p>
+
+<br>
