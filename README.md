@@ -1,6 +1,16 @@
-<!-- Serene header banner -->
+<!-- Serene animated header (light & calm) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e293b,50:334155,100:64748b&text=Systems%20Programming&fontColor=e5e7eb&fontSize=32&fontAlignY=35&desc=Rust%20•%20Embedded%20•%20ARM64&descAlignY=55" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving
+    &height=180
+    &color=0:d1fae5,50:a7f3d0,100:bae6fd
+    &text=Systems%20Programming
+    &fontColor=064e3b
+    &fontSize=32
+    &fontAlignY=35
+    &desc=Rust%20•%20Embedded%20•%20ARM64
+    &descAlignY=55"
+  />
 </p>
 
 # 💫 About Me
@@ -32,7 +42,7 @@ I value clarity, efficiency, and learning by building real systems from the grou
 ---
 
 ## 🧩 What You’ll Find Here
-- Experiments with **systems programming concepts**
+- Experiments with systems programming concepts  
 - Embedded and microcontroller-based projects  
 - Low-level Rust code and learning notes  
 - Explorations into OS internals and architecture  
@@ -40,25 +50,21 @@ I value clarity, efficiency, and learning by building real systems from the grou
 ---
 
 ## 🧭 Learning Philosophy
-> *Understand the system.  
-> Build it yourself.  
-> Keep it simple and correct.*
+> *Understand the system.*  
+> *Build it yourself.*  
+> *Keep it simple and correct.*
 
 I believe deep understanding comes from writing things from scratch, breaking them, and rebuilding them better.
 
 ---
 
-## 💻 Tech Stack
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:94a3b8,100:cbd5f5" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect
+    &height=2
+    &color=0:d1fae5,100:bae6fd"
+    width="100%"
+  />
 </p>
 
 <p align="center">
