@@ -17,7 +17,6 @@
 
 ## 💫 About Me
 
-```json
 {
   "name": "ThirstyMelon",
   "role": "Systems Programmer & Embedded Engineer",
@@ -137,4 +136,3 @@ fn principles() {
 
 
 <br>
-```
