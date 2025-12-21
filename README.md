@@ -28,13 +28,28 @@ Every project I work on is a step toward understanding computers at their core.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirstymelon&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thirstymelon&hide_border=true&theme=transparent" height="150" />
+<!-- subtle divider -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:1f1f1f&height=2&section=header" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&layout=compact&hide_border=true&theme=transparent" height="120" />
+<!-- activity & streak -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thirstymelon&show_icons=true&hide_title=true&hide_border=true&icon_color=9ece6a&text_color=c9d1d9&bg_color=00000000" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thirstymelon&hide_border=true&ring=9ece6a&fire=9ece6a&currStreakLabel=c9d1d9&sideLabels=c9d1d9&background=00000000" height="150" />
+</p>
+
+<!-- languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&layout=compact&hide_border=true&text_color=c9d1d9&bg_color=00000000" height="120" />
+</p>
+
+<!-- subtle divider -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:1f1f1f&height=2&section=header" width="100%" />
 </p>
 
 ---
