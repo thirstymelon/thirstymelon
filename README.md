@@ -1,13 +1,12 @@
 # 💫 About Me
 
-**Systems Programming Enthusiast • Rust • Embedded • ARM64**
+**Systems Programming • Rust • Embedded • ARM64**
 
-I’m a B.Tech student with a deep interest in low-level systems, embedded development, and performance-oriented software. I enjoy working close to the hardware—building kernels, experimenting with microcontrollers, and exploring decentralized and resource-constrained systems.
+I’m a B.Tech student focused on low-level systems and performance-oriented software.  
+I enjoy working close to the hardware—building embedded projects, exploring operating systems, and understanding how software interacts with silicon.
 
-My primary focus is on **Rust**, **ESP32**, and **ARM64 internals**, with a growing interest in operating systems, networking, and systems design. I care about writing efficient, minimal code and understanding how software truly interacts with hardware.
-
-Driven by curiosity, I learn by building, breaking, and rebuilding.  
-Every project I work on is a step toward understanding computers at their core.
+My current interests include **Rust**, **ESP32**, and **ARM64 internals**, with a growing focus on systems design, networking, and OS fundamentals.  
+I value clarity, efficiency, and learning by building real systems from the ground up.
 
 ---
 
@@ -28,23 +27,39 @@ Every project I work on is a step toward understanding computers at their core.
 
 ## 📊 GitHub Stats
 
-<!-- subtle divider -->
+<!-- divider -->
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:1f1f1f&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c7f9cc,100:a0e9ff&height=2&section=header" width="100%" />
 </p>
 
-<!-- activity & streak -->
+<!-- main stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirstymelon&show_icons=true&hide_title=true&hide_border=true&icon_color=9ece6a&text_color=c9d1d9&bg_color=00000000" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thirstymelon
+    &show_icons=true
+    &hide_title=true
+    &hide_border=true
+    &icon_color=7bdcb5
+    &text_color=5f6c7b
+    &bg_color=00000000"
+    height="155"
+  />
 </p>
 
-
-<!-- languages -->
+<!-- top languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon&layout=compact&hide_border=true&text_color=c9d1d9&bg_color=00000000" height="120" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstymelon
+    &layout=compact
+    &hide_border=true
+    &title_color=7bdcb5
+    &text_color=5f6c7b
+    &bg_color=00000000"
+    height="125"
+  />
 </p>
 
-<!-- subtle divider -->
+<!-- divider -->
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:1f1f1f&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a0e9ff,100:ffcad4&height=2&section=header" width="100%" />
 </p>
