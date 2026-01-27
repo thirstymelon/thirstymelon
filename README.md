@@ -1,6 +1,6 @@
 <!-- Clean minimal header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=ThirstyMelon&fontColor=86efac&fontSize=70&fontAlignY=50&desc=Systems%20Programmer%20%7C%20Embedded%20Engineer&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Lokesh%20Panditi&fontColor=86efac&fontSize=70&fontAlignY=50&desc=Systems%20Programmer%20%7C%20Embedded%20Engineer&descSize=20&descAlignY=70" />
 </p>
 
 <!-- Smooth animated typing (skills & interests only) -->
