@@ -1,11 +1,11 @@
-<!-- Creative header with cylinder/vortex effect -->
+<!-- Enhanced header with smooth wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&customColorList=12,14,16&text=Lokesh%20Panditi&fontSize=50&fontColor=86efac&animation=twinkling&fontAlignY=45&desc=Systems%20Programmer%20|%20Embedded%20Engineer&descSize=16&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16&section=header&text=Lokesh%20Panditi&fontSize=45&fontColor=86efac&animation=fadeIn&fontAlignY=35&desc=Systems%20Programmer%20|%20Embedded%20Engineer&descSize=18&descAlignY=55&descColor=93C5FD" />
 </p>
 
-<!-- Animated separator line -->
+<!-- Subtle divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=5&color=gradient&customColorList=12,14,16" width="70%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,16" width="65%">
 </p>
 
 <br>
@@ -102,7 +102,7 @@ Exploring Rust for bare-metal programming, embedded systems, and understanding h
 ## `0x04` Technical Expertise
 
 ```asm
-; Expertise domains (bitmask representation)
+; Expertise domains
 .equ EMBEDDED,      0b00000001  ; Microcontroller programming
 .equ RTOS,          0b00000010  ; Real-time operating systems
 .equ PROTOCOLS,     0b00000100  ; I2C, SPI, UART
@@ -175,7 +175,7 @@ fn main() {
 ## `0x06` Connect
 
 ```asm
-; Contact information (memory-mapped I/O style)
+; Contact information
 .section .rodata
     GITHUB:     .quad 0x0000_GITHUB_BASE      ; thirstymelon
     EMAIL:      .quad 0x0000_EMAIL_BASE       ; thirstymelon.01@gmail.com
@@ -196,9 +196,9 @@ fn main() {
 
 ---
 
-<!-- Creative footer with shark/transparent effect -->
+<!-- Enhanced footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=120&color=gradient&customColorList=12,14,16&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16&section=footer" />
 </p>
 
 <p align="center">
