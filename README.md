@@ -1,19 +1,11 @@
-<!-- Minimal header with subtle gradient -->
+<!-- Creative header with cylinder/vortex effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16&section=header&text=Lokesh%20Panditi&fontSize=40&fontColor=86efac&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&customColorList=12,14,16&text=Lokesh%20Panditi&fontSize=50&fontColor=86efac&animation=twinkling&fontAlignY=45&desc=Systems%20Programmer%20|%20Embedded%20Engineer&descSize=16&descAlignY=65" />
 </p>
 
+<!-- Animated separator line -->
 <p align="center">
-  <b>Systems Programmer | Embedded Engineer</b>
-</p>
-
-<p align="center">
-  <sub>Building reliable, efficient software at the hardware-software interface</sub>
-</p>
-
-<!-- Minimal divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&customColorList=12" width="60%">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=5&color=gradient&customColorList=12,14,16" width="70%">
 </p>
 
 <br>
@@ -21,58 +13,52 @@
 ## `0x01` About
 
 ```asm
-; System profile initialization
-.section .data
-    developer:      .asciz "Lokesh Panditi"
-    role:           .asciz "Systems Programmer & Embedded Engineer"
-    location:       .asciz "Close to the Metal"
-    
+; Profile: Lokesh Panditi
+; Role: Systems Programmer & Embedded Engineer
 .section .text
-.global _start
-_start:
-    ; Core interests (stack-based)
-    adr x0, interests
-    mov x1, #5
-    
-interests:
-    .asciz "Low-level programming"
-    .asciz "Embedded systems"
-    .asciz "Operating systems"
-    .asciz "Networking fundamentals"
-    .asciz "Hardware-software interfaces"
+    mov x0, #SYSTEMS_PROG       ; Initialize role
+    mov x1, #EMBEDDED_ENG       ; Secondary focus
+    adr x2, interests           ; Load interest vector
+    mov x3, #5                  ; Count: 5 domains
 ```
 
 I'm a systems programmer focused on low-level software development and embedded systems. My work centers on understanding how systems operate from first principles and building solutions that are efficient, minimal, and predictable.
 
 **Primary Technologies:** `Rust` • `Assembly` | **Target Platforms:** `ARM64` • `ESP32`
 
+**Core Interests:**
+- Low-level programming and systems design
+- Embedded systems development
+- Operating systems internals
+- Hardware-software interfaces
+- Networking fundamentals
+
 <br>
 
 ---
 
-## `0x02` Current Work
+## `0x02` Currently Working On
 
 ```rust
-// Active development branch
-struct CurrentProject {
-    name: &'static str,
-    description: &'static str,
-    tech_stack: [&'static str; 4],
-    status: Status,
-}
+// Active learning paths
+const LEARNING: [&str; 2] = [
+    "AArch64 Assembly Programming",
+    "Low-Level Rust Development",
+];
 
-impl CurrentProject {
-    const ACTIVE: Self = Self {
-        name: "Custom Mesh Network Implementation",
-        description: "Building a mesh network for ESP32 from scratch using Rust",
-        tech_stack: ["Rust", "ESP32", "Embedded", "Networking"],
-        status: Status::InProgress,
-    };
+impl LearningPath {
+    fn current_focus() -> &'static str {
+        "Building deep understanding of ARM64 architecture \
+         and systems programming with Rust"
+    }
 }
 ```
 
-**Custom Mesh Network Implementation**  
-Exploring low-level networking, embedded communication protocols, and distributed system design on ESP32 hardware using Rust.
+**AArch64 Assembly Programming**  
+Diving deep into ARM64 instruction set architecture, register conventions, memory models, and low-level optimization techniques.
+
+**Low-Level Rust Development**  
+Exploring Rust for bare-metal programming, embedded systems, and understanding how Rust's zero-cost abstractions map to hardware.
 
 <br>
 
@@ -210,9 +196,9 @@ fn main() {
 
 ---
 
-<!-- Minimal footer wave -->
+<!-- Creative footer with shark/transparent effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=120&color=gradient&customColorList=12,14,16&section=footer" />
 </p>
 
 <p align="center">
