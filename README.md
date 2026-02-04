@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">Lokesh Panditi</h1>
-<p align="center"><b>Systems Programmer • Embedded Systems • ARM64</b></p>
+<p align="center">Systems Programmer | Embedded Engineer</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="60%" />
+</p>
 
 <br>
 
