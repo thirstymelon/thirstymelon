@@ -1,22 +1,20 @@
-<h1 align="center">Lokesh Panditi</h1>
-<p align="center">Systems Programmer | Embedded Engineer</p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80%" />
 </p>
 
-<br>
 
 ## `0x01` About
 
 ```asm
 ; Profile: Lokesh Panditi
-; Role: Systems Programmer & Embedded Engineer
+; Status: Aspiring Systems Programmer
+; Goal: Systems / Low-Level Engineer
+
 .section .text
-    mov x0, #SYSTEMS_PROG       ; Initialize role
-    mov x1, #EMBEDDED_ENG       ; Secondary focus
-    adr x2, interests           ; Load interest vector
-    mov x3, #5                  ; Count: 5 domains
+    mov x0, #LEARNING_SYSTEMS      ; Current phase
+    mov x1, #BARE_METAL            ; Core focus
+    adr x2, interests              ; Load interest vector
+    mov x3, #5                     ; Count: 5 domains
 ```
 
 I'm a systems programmer focused on low-level software development and embedded systems. My work centers on understanding how systems operate from first principles and building solutions that are efficient, minimal, and predictable.
@@ -51,10 +49,10 @@ impl LearningPath {
 }
 ```
 
-**AArch64 Assembly Programming**  
+**AArch64 Assembly Programming**
 Diving deep into ARM64 instruction set architecture, register conventions, memory models, and low-level optimization techniques.
 
-**Low-Level Rust Development**  
+**Low-Level Rust Development**
 Exploring Rust for bare-metal programming, embedded systems, and understanding how Rust's zero-cost abstractions map to hardware.
 
 <br>
