@@ -1,12 +1,9 @@
-<!-- Enhanced header with smooth wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16&section=header&text=Lokesh%20Panditi&fontSize=45&fontColor=86efac&animation=fadeIn&fontAlignY=35&desc=Systems%20Programmer%20|%20Embedded%20Engineer&descSize=18&descAlignY=55&descColor=93C5FD" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
 
-<!-- Subtle divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,16" width="65%">
-</p>
+<h1 align="center">Lokesh Panditi</h1>
+<h3 align="center">Systems Programmer | Embedded Engineer</h3>
 
 <br>
 
