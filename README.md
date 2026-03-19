@@ -173,7 +173,7 @@ fn main() {
 ; Contact information
 .section .rodata
     GITHUB:     .quad 0x0000_GITHUB_BASE      ; thirstymelon
-    EMAIL:      .quad 0x0000_EMAIL_BASE       ; thirstymelon.01@gmail.com
+    EMAIL:      .quad 0x0000_EMAIL_BASE       ; lokesh.panditi.29@gmail.com
     LINKEDIN:   .quad 0x0000_LINKEDIN_BASE    ; lokesh-panditi-123801339
 ```
 
@@ -181,7 +181,7 @@ fn main() {
   <a href="https://github.com/thirstymelon">
     <img src="https://img.shields.io/badge/GitHub-9DFFDB?style=for-the-badge&logo=github&logoColor=0A0E27" />
   </a>
-  <a href="mailto:thirstymelon.01@gmail.com">
+  <a href="mailto:lokesh.panditi.29@gmail.com">
     <img src="https://img.shields.io/badge/Email-8BFFC8?style=for-the-badge&logo=gmail&logoColor=0A0E27" />
   </a>
   <a href="https://www.linkedin.com/in/lokesh-panditi-123801339">
