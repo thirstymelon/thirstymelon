@@ -1,20 +1,18 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VybTg3ZWhidHY3YmRxaHFrdTdrNjI2a2M1Z2tsdXM4bTJxd2JtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
-<h2 id="नमस्ते--im-lokesh">नमस्ते 🙏, I’m Lokesh (Loki)</h2>
-<h2 id="embedded-systems-developer">Embedded Systems & Low-Level Developer ⚡</h2>
+# Hey there 👋 I'm Lokesh (Loki)
 
+### Embedded Systems & Low-Level Developer ⚡
 
-<p>
-<a href="https://github.com/thirstymelon">
-<img src="https://img.shields.io/badge/GitHub-thirstymelon-black" alt="">
-</a>
-</p>
+<!-- <img align="right" alt="coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VybTg3ZWhidHY3YmRxaHFrdTdrNjI2a2M1Z2tsdXM4bTJxd2JtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" style="margin-top:-25px;"> -->
 
-<h3 id="-a-little-more-about-me">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-A little more about me…
-</h3>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokeshpanditi)&nbsp;&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokesh.panditi.29@gmail.com)&nbsp;&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/simply.lokesh/)
 
-<pre>
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> About Me
+
+```js
 const loki = {
     pronouns: "He" | "Him",
 
@@ -30,9 +28,10 @@ const loki = {
         languages: [
             "C",
             "C++",
+            "ARM64 Assembly",
             "Rust",
             "Python",
-            "ARM64 Assembly"
+            "Java"
         ],
 
         embedded: [
@@ -58,7 +57,7 @@ const loki = {
         tools: [
             "Git",
             "VSCode",
-            "STMCube",
+            "STM32Cube",
             "PlatformIO"
         ]
     },
@@ -70,10 +69,10 @@ const loki = {
         "real time systems"
     ],
 }
-</pre>
+```
 
-<hr>
+### 🚀 Contributors are always welcome 🙏
 
-<p>⭐️ From <a href="https://github.com/thirstymelon">@thirstymelon</a></p>
+---
 
-<hr>
+⭐️ From [@thirstymelon](https://github.com/thirstymelon)
