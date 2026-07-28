@@ -22,10 +22,18 @@ Embedded Systems • Distributed MCU Systems • Firmware Development • Real-T
 
 ## 🚀 Contributors are always welcome 🙏
 
-### ⭐️ Socials  
+### ⭐️ Socials
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokeshpanditi)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokesh.panditi.29@gmail.com)&nbsp;&nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/simply.lokesh/)
+
+---
+
+## 📈 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
+</p>
 
 ---
