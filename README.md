@@ -1,37 +1,66 @@
-# Hey there 👋 I'm Lokesh (Loki)
+# Hi, I'm Lokesh 👋
 
-## Embedded Systems & Firmware Developer ⚡
+### Embedded Systems & Firmware Developer
 
-### Visit my portfolio: [https://lokeshpanditi.qzz.io](https://lokeshpanditi.qzz.io/)
+> Building reliable firmware and reusable embedded software.
 
----
-
-Passionate about Embedded Systems, Low-Level Programming, Computer Architecture, Firmware Development, and FPGA.
-
-### Tech Stack
-- **Languages :** C, C++, ADA, ARM64 Assembly, Rust, Python
-- **Embedded  :** ESP32, ESP8266, FreeRTOS
-- **Hardware  :** SystemVerilog, FPGA (Learning)
-- **Protocols :** UART, SPI, I2C, CAN, ESP-NOW
-- **Tools     :** Git, VSCode, PlatformIO
-
-### Interests
-Embedded Systems • Distributed MCU Systems • Firmware Development • Real-Time Systems
+🌐 **Portfolio:** https://lokeshpanditi.qzz.io
 
 ---
 
-## 🚀 Contributors are always welcome 🙏
+## ⟢ About
 
-### ⭐️ Socials
+Passionate about embedded systems, low-level programming, computer architecture, and real-time software.
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokeshpanditi)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokesh.panditi.29@gmail.com)&nbsp;&nbsp;&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/simply.lokesh/)
+I enjoy building open-source frameworks that are portable, efficient, and hardware-independent.
+
+---
+
+## ⟢ Tech Stack
+
+**Languages**
+
+C • C++ • Ada • ARM64 Assembly • Rust • Python
+
+**Microcontrollers**
+
+ESP32 • RP2040 • STM32F411
+
+---
+
+## ⟢ Open Source Projects
+
+| Project | Status | Description | Language |
+| :------ | :----: | :---------- | :------: |
+| ✦ **Glyph** | 🚧 Active | Portable graphics framework with a hardware-independent rendering API and display drivers. | Ada |
+| ⊙ **Sensor_Kit** | 🚧 Active | Hardware-independent sensor framework with a unified API for embedded applications. | Ada |
+| ⌬ **Loom** | 📌 Planned | Cooperative task scheduler for resource-constrained microcontrollers with deterministic execution. | Ada & C |
+| ➤ **Flight_Kit** | 📌 Planned | Flight software framework for avionics and embedded systems with reusable components. | Ada & C |
+
+---
+
+## ⟢ Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lokeshpanditi">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  &nbsp;
+  <a href="mailto:lokesh.panditi.29@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/simply.lokesh/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/OkContribution2996/">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="42" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
 </p>
-
----
