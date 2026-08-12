@@ -14,6 +14,8 @@ Passionate about embedded systems, low-level programming, computer architecture,
 
 I enjoy building open-source frameworks that are portable, efficient, and hardware-independent.
 
+**Currently exploring Ada for Embedded Systems and building my own Ada Eco-system.**
+
 ---
 
 ## ⟢ Tech Stack
@@ -24,7 +26,7 @@ C • C++ • Ada • ARM64 Assembly • Rust • Python
 
 **Microcontrollers**
 
-ESP32 • RP2040 • STM32F411
+ESP32 • RP2040
 
 ---
 
@@ -32,10 +34,12 @@ ESP32 • RP2040 • STM32F411
 
 | Project | Status | Description | Language |
 | :------ | :----: | :---------- | :------: |
-| ✦ **Glyph** | 🚧 Active | Portable graphics framework with a hardware-independent rendering API and display drivers. | Ada |
-| ⊙ **Sensor_Kit** | 🚧 Active | Hardware-independent sensor framework with a unified API for embedded applications. | Ada |
-| ⌬ **Loom** | 📌 Planned | Cooperative task scheduler for resource-constrained microcontrollers with deterministic execution. | Ada & C |
-| ➤ **Flight_Kit** | 📌 Planned | Flight software framework for avionics and embedded systems with reusable components. | Ada & C |
+| ✦ **Glyph** | ✅ Published | Portable graphics framework with a hardware-independent rendering API and display drivers. | Ada |
+| 🕸️ **Web_Kit** | 🚧 Active | A lightweight and beginner-friendly web framework. | Ada|
+| ⌗ **Sensor_Kit** | 🚧 Active | Hardware-independent sensor framework with a unified API for embedded applications. | Ada |
+| ∿ **Radio_Kit** | 📌 Planned | Radio framework for RP2040 enabling wireless signal transmission without an RF transceiver. | Ada |
+| ⌬ **Loom** | 📌 Planned | Cooperative task scheduler for resource-constrained microcontrollers with deterministic execution. | Ada |
+| ➤ **Flight_Kit** | 📌 Planned | Flight software framework for avionics and embedded systems with reusable components. | Ada |
 
 ---
 
